@@ -12,6 +12,10 @@ Shell脚本编程30分钟入门
 	for ((i=0; i<10; i++)); do
 		touch test_$i.txt
 	done
+	
+	
+  System.out.println("fdsafdsa");
+	
 
 ### 示例解释
 
